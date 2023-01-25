@@ -1,0 +1,5 @@
+Sistem Pakar Diagnosa Virus Eksantena Metode CBR
+
+localhost/NAMAFOLDER/adm
+user: admin
+pass: admin
